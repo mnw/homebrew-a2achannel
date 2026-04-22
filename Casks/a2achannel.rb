@@ -1,6 +1,6 @@
 cask "a2achannel" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.7.5"
+  sha256 "859646799af06a216bb3871a69ca7f8ad7ff97823f72bca13cb47272aef35919"
 
   url "https://github.com/mnw/A2AChannel/releases/download/v#{version}/A2AChannel-#{version}.zip"
   name "A2AChannel"
